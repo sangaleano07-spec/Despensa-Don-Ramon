@@ -1,0 +1,9 @@
+DESPENSA DON RAMÓN — APP PWA
+
+Todos los archivos están en la raíz, sin subcarpetas.
+Subí index.html, manifest.webmanifest, service-worker.js, icon-192.png e icon-512.png directamente al repositorio nuevo de GitHub.
+Luego configurá Settings > Pages > Deploy from a branch > main > /(root).
+Abrí la URL pública y después usala en PWABuilder.
+
+Incluye ventas al contado y fiadas, stock, clientes, abonos, compras, proveedores, pagos a proveedores, reportes, CSV, respaldo JSON y comprobantes imprimibles.
+Los datos se guardan en el navegador de ese dispositivo; no se sincronizan automáticamente con otros teléfonos. El sistema es de control interno y no emite facturas legales.
